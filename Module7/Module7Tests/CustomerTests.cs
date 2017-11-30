@@ -14,7 +14,7 @@ namespace Module7Tests
 			#endregion
 
 			#region Act
-			var actual = customer.ToString(new FullFormat());
+			var actual = customer.ToString("NRP");
 			#endregion
 
 			#region Assert
@@ -29,7 +29,7 @@ namespace Module7Tests
 			#endregion
 
 			#region Act
-			var actual = customer.ToString(new Name());
+			var actual = customer.ToString("N");
 			#endregion
 
 			#region Assert
@@ -44,7 +44,7 @@ namespace Module7Tests
 			#endregion
 
 			#region Act
-			var actual = customer.ToString(new PhoneAndRevenue());
+			var actual = customer.ToString("PR");
 			#endregion
 
 			#region Assert
@@ -59,7 +59,7 @@ namespace Module7Tests
 			#endregion
 
 			#region Act
-			var actual = customer.ToString(new NameAndPhone());
+			var actual = customer.ToString("NP");
 			#endregion
 
 			#region Assert
@@ -74,7 +74,7 @@ namespace Module7Tests
 			#endregion
 
 			#region Act
-			var actual = customer.ToString(new Revenue());
+			var actual = customer.ToString("R");
 			#endregion
 
 			#region Assert
@@ -89,7 +89,7 @@ namespace Module7Tests
 			#endregion
 
 			#region Act
-			var actual = customer.ToString(new ContactPhone());
+			var actual = customer.ToString("P");
 			#endregion
 
 			#region Assert

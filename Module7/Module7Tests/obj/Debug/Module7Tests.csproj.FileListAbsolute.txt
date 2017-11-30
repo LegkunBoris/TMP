@@ -14,3 +14,12 @@ C:\Users\1\Documents\Projects\Module7\Module7Tests\bin\Debug\normnfkd.nlp
 C:\Users\1\Documents\Projects\Module7\Module7Tests\obj\Debug\Module7Tests.csprojResolveAssemblyReference.cache
 C:\Users\1\Documents\Projects\Module7\Module7Tests\obj\Debug\Module7Tests.dll
 C:\Users\1\Documents\Projects\Module7\Module7Tests\obj\Debug\Module7Tests.pdb
+C:\Users\Genzal\Documents\GitHub\TMP\Module7\Module7Tests\bin\Debug\Module7Tests.dll
+C:\Users\Genzal\Documents\GitHub\TMP\Module7\Module7Tests\bin\Debug\Module7Tests.pdb
+C:\Users\Genzal\Documents\GitHub\TMP\Module7\Module7Tests\bin\Debug\Module7.dll
+C:\Users\Genzal\Documents\GitHub\TMP\Module7\Module7Tests\bin\Debug\nunit.framework.dll
+C:\Users\Genzal\Documents\GitHub\TMP\Module7\Module7Tests\bin\Debug\Module7.pdb
+C:\Users\Genzal\Documents\GitHub\TMP\Module7\Module7Tests\bin\Debug\nunit.framework.xml
+C:\Users\Genzal\Documents\GitHub\TMP\Module7\Module7Tests\obj\Debug\Module7Tests.csprojResolveAssemblyReference.cache
+C:\Users\Genzal\Documents\GitHub\TMP\Module7\Module7Tests\obj\Debug\Module7Tests.dll
+C:\Users\Genzal\Documents\GitHub\TMP\Module7\Module7Tests\obj\Debug\Module7Tests.pdb

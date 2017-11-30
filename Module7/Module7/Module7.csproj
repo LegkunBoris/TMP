@@ -33,14 +33,7 @@
   <ItemGroup>
     <Compile Include="Customer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="IFormat.cs" />
-    <Compile Include="FullFormat.cs" />
-    <Compile Include="Name.cs" />
-    <Compile Include="CustomerFormater.cs" />
-    <Compile Include="ContactPhone.cs" />
-    <Compile Include="Revenue.cs" />
-    <Compile Include="NameAndPhone.cs" />
-    <Compile Include="PhoneAndRevenue.cs" />
+    <Compile Include="AddOrChangeUrlParameter.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

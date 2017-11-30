@@ -4,26 +4,16 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Module7\PhoneAndRevenue.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Module7Tests\UrlTests.cs">
     <Files>
-      <File FileName="Module7\Customer.cs" Line="24" Column="3" />
-      <File FileName="Module7\IFormat.cs" Line="5" Column="3" />
-      <File FileName="Module7\FullFormat.cs" Line="10" Column="138" />
-      <File FileName="Module7Tests\CustomerTests.cs" Line="40" Column="107" />
-      <File FileName="Module7\CustomerFormater.cs" Line="8" Column="30" />
-      <File FileName="Module7\ContactPhone.cs" Line="8" Column="4" />
-      <File FileName="Module7\Revenue.cs" Line="8" Column="91" />
-      <File FileName="Module7\NameAndPhone.cs" Line="8" Column="33" />
-      <File FileName="Module7\PhoneAndRevenue.cs" Line="9" Column="4" />
+      <File FileName="Module7Tests\UrlTests.cs" Line="11" Column="4" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
           <Node name="Module7" expanded="True">
             <Node name="Module7Tests" expanded="True">
-              <Node name="Module7Tests" expanded="True">
-                <Node name="Test" expanded="True" />
-              </Node>
+              <Node name="Module7Tests" expanded="True" selected="True" />
             </Node>
           </Node>
         </State>

@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{BACA2CE2-D0C7-407D-A0CD-CA6FA7DB3B6D}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Translator.WEB PreferredExecutionTarget="FirefoxHTML-E7CF176E110C211B" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Translator.WEB\Controllers\ValuesController.cs">
+    <Files>
+      <File FileName="Translator.DAL\Repositories\CardRepository.cs" Line="21" Column="30" />
+      <File FileName="Translator.DAL\Repositories\CardGroupRepository.cs" Line="49" Column="35" />
+      <File FileName="Translator.DAL\Entities\CardGroup.cs" Line="10" Column="42" />
+      <File FileName="Translator.WEB\Controllers\HomeController.cs" Line="10" Column="4" />
+      <File FileName="Translator.WEB\Controllers\ValuesController.cs" Line="8" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
