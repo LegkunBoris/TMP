@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{908A355F-8EE7-4D7C-81B1-B3AB1F6B138B}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CardSystem.WEB PreferredExecutionTarget="FirefoxHTML-E7CF176E110C211B" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CardSystem.WEB\Controllers\ValuesController.cs">
+    <Files>
+      <File FileName="CardSystem.WEB\Controllers\ValuesController.cs" Line="11" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
