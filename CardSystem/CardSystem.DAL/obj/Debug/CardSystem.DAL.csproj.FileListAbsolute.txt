@@ -1,0 +1,9 @@
+C:\Users\Genzal\Documents\Projects\CardSystem\CardSystem.DAL\bin\Debug\CardSystem.DAL.dll.config
+C:\Users\Genzal\Documents\Projects\CardSystem\CardSystem.DAL\bin\Debug\CardSystem.DAL.dll
+C:\Users\Genzal\Documents\Projects\CardSystem\CardSystem.DAL\bin\Debug\CardSystem.DAL.pdb
+C:\Users\Genzal\Documents\Projects\CardSystem\CardSystem.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Genzal\Documents\Projects\CardSystem\CardSystem.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Genzal\Documents\Projects\CardSystem\CardSystem.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Genzal\Documents\Projects\CardSystem\CardSystem.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Genzal\Documents\Projects\CardSystem\CardSystem.DAL\obj\Debug\CardSystem.DAL.dll
+C:\Users\Genzal\Documents\Projects\CardSystem\CardSystem.DAL\obj\Debug\CardSystem.DAL.pdb

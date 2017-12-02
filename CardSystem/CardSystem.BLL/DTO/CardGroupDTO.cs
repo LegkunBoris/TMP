@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using CardSystem.DAL;
 
 namespace CardSystem.BLL
 {
 	public class CardGroupDTO
 	{
-		public GroupID GroupId { get; set; }
+		public int GroupId { get; set; }
 		public string GroupName { get; set; }
-		public List<CardID> Cards { get; set; }
+		public List<int> Cards { get; set; }
 	}
 }

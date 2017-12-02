@@ -21,7 +21,7 @@ namespace CardSystem.DAL
 		{
 			protected override void Seed(SystemContext db)
 			{
-				db.Cards.Add(new Card { CardId = new CardID { ID = 0}, Language = "English",
+				db.Cards.Add(new Card { CardId = 0, Language = "English",
 					Word = "cat",Translate = "кот", PossibleTranslates = new List<string> {"собака","дом","кровать","небо"} });
 
 				db.SaveChanges();

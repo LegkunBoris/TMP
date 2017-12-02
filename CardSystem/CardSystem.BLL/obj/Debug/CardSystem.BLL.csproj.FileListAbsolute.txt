@@ -1,0 +1,13 @@
+C:\Users\Genzal\Documents\Projects\CardSystem\CardSystem.BLL\bin\Debug\CardSystem.BLL.dll
+C:\Users\Genzal\Documents\Projects\CardSystem\CardSystem.BLL\bin\Debug\CardSystem.BLL.pdb
+C:\Users\Genzal\Documents\Projects\CardSystem\CardSystem.BLL\bin\Debug\AutoMapper.dll
+C:\Users\Genzal\Documents\Projects\CardSystem\CardSystem.BLL\bin\Debug\CardSystem.DAL.dll
+C:\Users\Genzal\Documents\Projects\CardSystem\CardSystem.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Genzal\Documents\Projects\CardSystem\CardSystem.BLL\bin\Debug\CardSystem.DAL.pdb
+C:\Users\Genzal\Documents\Projects\CardSystem\CardSystem.BLL\bin\Debug\AutoMapper.xml
+C:\Users\Genzal\Documents\Projects\CardSystem\CardSystem.BLL\bin\Debug\Ninject.xml
+C:\Users\Genzal\Documents\Projects\CardSystem\CardSystem.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Genzal\Documents\Projects\CardSystem\CardSystem.BLL\obj\Debug\CardSystem.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Genzal\Documents\Projects\CardSystem\CardSystem.BLL\obj\Debug\CardSystem.BLL.dll
+C:\Users\Genzal\Documents\Projects\CardSystem\CardSystem.BLL\obj\Debug\CardSystem.BLL.pdb
+C:\Users\Genzal\Documents\Projects\CardSystem\CardSystem.BLL\bin\Debug\Ninject.dll

@@ -34,19 +34,17 @@
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="Ninject">
-      <HintPath>..\packages\Ninject.3.3.4\lib\net45\Ninject.dll</HintPath>
+      <HintPath>..\packages\Ninject.3.3.0\lib\net45\Ninject.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="DTO\CardDTO.cs" />
     <Compile Include="DTO\CardGroupDTO.cs" />
-    <Compile Include="DTO\CardID.cs" />
-    <Compile Include="DTO\GroupID.cs" />
-    <Compile Include="Interfaces\ICardSystem.cs" />
-    <Compile Include="BusinesModels\CardSystem.cs" />
+    <Compile Include="Interfaces\ICardService.cs" />
     <Compile Include="Infrastructure\ValidationException.cs" />
-    <Compile Include="Infrastructure\ServiceModule.cs" />
+    <Compile Include="Infrastructure\BLLModule.cs" />
+    <Compile Include="BusinesModels\CardService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

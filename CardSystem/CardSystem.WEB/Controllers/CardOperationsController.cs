@@ -5,9 +5,9 @@ namespace CardSystem.WEB.Controllers
 {
     public class CardOperationsController : ApiController
     {
-		private readonly ICardSystem _cardSystem;
+		private readonly ICardService _cardSystem;
 
-		public CardOperationsController(ICardSystem cardSystem)
+		public CardOperationsController(ICardService cardSystem)
 		{
 			_cardSystem = cardSystem;
 		}

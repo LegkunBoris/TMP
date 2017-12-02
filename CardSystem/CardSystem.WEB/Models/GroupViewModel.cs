@@ -7,6 +7,6 @@ namespace CardSystem.WEB
 	{
 		public int Id { get; set; }
 		public string GroupName { get; set; }
-		public List<CardID> Cards { get; set; }
+		public List<int> Cards { get; set; }
 	}
 }

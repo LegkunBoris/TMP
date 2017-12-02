@@ -42,8 +42,6 @@
     <Compile Include="Entities\CardGroup.cs" />
     <Compile Include="Repositories\CardGroupRepository.cs" />
     <Compile Include="Repositories\CardRepository.cs" />
-    <Compile Include="Entities\CardID.cs" />
-    <Compile Include="Entities\GroupID.cs" />
     <Compile Include="EF\SystemContext.cs" />
     <Compile Include="Interfaces\IRepository.cs" />
     <Compile Include="Interfaces\IUnitOfWork.cs" />
